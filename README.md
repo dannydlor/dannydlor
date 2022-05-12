@@ -4,7 +4,7 @@
 
 Soy **ingeniera de sistemas y programadora _web_** ubicada en Mocoa, Putumayo de Colombia 💛💙❤️.
 
-Actualmente me encuentro desarrollando mis habilidades de programación en el área de Frontend y próximamente me enfocaré hacia el Backend. Me apasioona el mundo minimalista, considera que "Menos es más" sabiendo desarrollarlo. Un abrazo a todos.
+Actualmente me encuentro desarrollando mis habilidades de programación en el área de Frontend y próximamente me enfocaré hacia el Backend. Me apasioona el mundo minimalista, considero que "Menos es más" sabiendo desarrollarlo. Un abrazo a todos.
 
 
 Si te gusta mi contenido puedes invitarme una salchipapa 🍟 por <a href="https://paypal.me/lorddannyo?country.x=CO&locale.x=es_XC" target="_blank" rel="noopener"> _**Paypal**_</a>.
