@@ -8,7 +8,7 @@
 
 <img width="400" height="auto" align="right" src="https://pixabay.com/images/id-2307350/">
 
-Soy ingeniera de sistemas y programadora _web_ ubicada en Mocoa, Putumayo de Colombia.
+Soy ingeniera de sistemas y programadora _web_ ubicada en Mocoa, Putumayo de Colombia 💛💙❤️.
 
 Como **ingeniera** me encuentro desarrollando mis habilidades de programación en el área de Frontend y próximamente me enfocaré hacia el Backend.
 
